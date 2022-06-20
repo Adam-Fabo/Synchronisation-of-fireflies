@@ -38,7 +38,7 @@ Fireflies can synchronize their blinking by observing other fireflies blinks and
 Kuramoto model is a mathematical model used to describe synchronization. Most popular example is [synchronisation of metronomes.](https://www.youtube.com/watch?v=Aaxw4zbULMs&ab_channel=HarvardNaturalSciencesLectureDemonstrations) It is well described in [Veritasium video](https://www.youtube.com/watch?v=t-_VPRCtiUg&ab_channel=Veritasium) or online interactive website called [Kuramotocycle](http://www.complexity-explorables.org/slides/ride-my-kuramotocycle/) which is great way to demonstrate principles of Kuramoto model.
 
 <p align="center">
-  <img src="https://github.com/freedie666/Firefly-Synchronisation/blob/main/images/kuramoto.png?raw=true" width = 100% />
+  <img src="https://github.com/Adam-Fabo/Synchronisation-of-fireflies/blob/main/images/kuramoto.png?raw=true" width = 100% />
 </p>
  
 In simulation we model fireflies as sine waves with given frequency and phase shift. We also measure orderliness of the system - how much is system synchronized.
