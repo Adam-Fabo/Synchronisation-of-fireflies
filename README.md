@@ -58,4 +58,4 @@ Graphs are made in Python - Matplitlib and Numpy
 
 Result of simulation - [video](https://youtu.be/UF8tPC8jpdA) demostrating synchronization of fireflies over time.
 
-For detailed info see [documentation](https://github.com/freedie666/Firefly-Synchronisation/blob/main/doc/Documentation.pdf) \[Slovak Language]
+For detailed info see [documentation](https://github.com/Adam-Fabo/Synchronisation-of-fireflies/blob/main/doc/Documentation.pdf) \[Slovak Language]
